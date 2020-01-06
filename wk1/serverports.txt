@@ -1,0 +1,22 @@
+Tommy Carlberg 101155271 COMP3134 Lab 1 Questions
+
+1) What is the definition of server port?
+	A server port is a connection endpoint that is used by a process or network service that is distinguished by a port number. The Transmission Control Protocol (TCP) and User Datagram Protocol (UCP) are the most common protocols that use port numbers.
+
+2) What is server port range?
+	0 to 65535 (2^16 - 1) but only port numbers 0 to 1023 are used for well known port numbers.
+
+3) How many bits does number above represent?
+	65535 = (2^16 - 1) = 15 bits, 1023 = (2^10 - 1) = 9 bits
+
+4) State 10 common server ports:
+	20 = FTP Transfer port
+	22 = SSH login port
+	25 = SMTP email routing port 
+	53 = DNS port
+	67 = DHCP port 
+	80 = HTTP port
+	123 = NTP (Network Time Protocol) port
+	143 = IMAP (Internet Message Access Protocol) port
+	161 = SNMP (Simple Network Management Protocol) port
+	443 = HTTPS port
