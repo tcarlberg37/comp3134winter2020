@@ -1,0 +1,117 @@
+Domain Name: GITHUB.COM
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-05-13T13:58:34Z
+Creation Date: 2007-10-09T18:20:50Z
+Registry Expiry Date: 2020-10-09T18:20:50Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS-1283.AWSDNS-32.ORG
+Name Server: NS-1707.AWSDNS-21.CO.UK
+Name Server: NS-421.AWSDNS-52.COM
+Name Server: NS-520.AWSDNS-01.NET
+Name Server: NS1.P16.DYNECT.NET
+Name Server: NS2.P16.DYNECT.NET
+Name Server: NS3.P16.DYNECT.NET
+Name Server: NS4.P16.DYNECT.NET
+DNSSEC: unsigned
+
+
+
+Domain Name: MINICLIP.COM
+Registry Domain ID: 28882264_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2016-03-15T10:21:51Z
+Creation Date: 2000-06-09T03:10:12Z
+Registry Expiry Date: 2025-06-09T03:10:12Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 480-624-2505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS-1518.AWSDNS-61.ORG
+Name Server: NS-1577.AWSDNS-05.CO.UK
+Name Server: NS-251.AWSDNS-31.COM
+Name Server: NS-867.AWSDNS-44.NET
+DNSSEC: unsigned
+
+
+
+Domain Name: REDDIT.COM
+Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2017-07-12T19:18:12Z
+Creation Date: 2005-04-29T17:59:19Z
+Registry Expiry Date: 2020-04-29T17:59:19Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS-1029.AWSDNS-00.ORG
+Name Server: NS-1887.AWSDNS-43.CO.UK
+Name Server: NS-378.AWSDNS-47.COM
+Name Server: NS-557.AWSDNS-05.NET
+DNSSEC: unsigned
+
+
+
+Server Name: PHISH.NET
+IP Address: 198.58.123.117
+Registrar: Network Solutions, LLC
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+
+Domain Name: PHISH.NET
+Registry Domain ID: 1780127_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2017-06-18T07:27:01Z
+Creation Date: 1993-08-18T04:00:00Z
+Registry Expiry Date: 2020-08-17T04:00:00Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: MARIO.NS.CLOUDFLARE.COM
+Name Server: ZITA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+
+
+
+Domain Name: NHL.COM
+Registry Domain ID: 1090978_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.moniker.com
+Registrar URL: http://www.moniker.com
+Updated Date: 2019-10-18T07:05:02Z
+Creation Date: 1994-10-18T04:00:00Z
+Registry Expiry Date: 2020-10-17T04:00:00Z
+Registrar: Moniker Online Services LLC
+Registrar IANA ID: 228
+Registrar Abuse Contact Email: abuse@moniker.com
+Registrar Abuse Contact Phone: +49.68949396850
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: EUR2.AKAM.NET
+Name Server: NS1-33.AKAM.NET
+Name Server: NS1-47.AKAM.NET
+Name Server: USW1.AKAM.NET
+Name Server: USW5.AKAM.NET
+Name Server: USW6.AKAM.NET
+DNSSEC: unsigned

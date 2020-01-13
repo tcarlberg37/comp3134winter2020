@@ -1,0 +1,67 @@
+Domain Name: nba.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 18.191.54.162
+
+Geolocation: US (United States), OH, Ohio, 43215 Columbus - Google Maps
+
+Reverse DNS: ec2-18-191-54-162.us-east-2.compute.amazonaws.com
+
+
+
+Domain Name: nfl.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 151.101.129.153
+
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+Reverse DNS entry: not found
+
+
+
+Domain Name: runescape.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 91.235.140.148
+
+Geolocation: GB (United Kingdom), N/A, N/A, N/A N/A - Google Maps
+
+Reverse DNS: nginx.web.any.jagex.com
+
+
+
+Domain Name: neopets.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 23.96.35.235
+
+Geolocation: US (United States), VA, Virginia, 23917 Boydton - Google Maps
+
+Reverse DNS entry: not found
+
+
+
+Domain Name: youtube.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 172.217.12.142
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+Reverse DNS: lga34s19-in-f14.1e100.net
