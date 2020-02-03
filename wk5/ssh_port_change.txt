@@ -1,0 +1,4 @@
+root@lamp-s-1vcpu-1gb-tor1-01:/# ufw allow 2222/tcp
+root@lamp-s-1vcpu-1gb-tor1-01:/# service sshd restart
+
+$ ssh root@159.89.127.140 -p 2222
