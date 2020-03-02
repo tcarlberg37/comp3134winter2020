@@ -1,0 +1,18 @@
+3 UDP packets sent to 159.89.127.140 using Packet Sender:
+name: udp_packet_1	ASCII: first	Address: 159.89.127.140		port: 12345
+name: udp_packet_2	ASCII: second	Address: 159.89.127.140		port: 12345
+name: udp_packet_3	ASCII: third	Address: 159.89.127.140		port: 54321
+
+
+OUTPUT ON DROPLET
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 udp
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+19:32:59.864207 IP 198.96.85.163.54736 > lamp-s-1vcpu-1gb-tor1-01.12345: UDP, length 5
+19:33:08.079957 IP 198.96.85.163.54736 > lamp-s-1vcpu-1gb-tor1-01.12345: UDP, length 6
+19:33:17.431086 IP 198.96.85.163.54736 > lamp-s-1vcpu-1gb-tor1-01.54321: UDP, length 5
+^C
+3 packets captured
+4 packets received by filter
+0 packets dropped by kernel

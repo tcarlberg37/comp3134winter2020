@@ -1,0 +1,26 @@
+FROM LOCALHOST
+$ ping 159.89.127.140
+
+Pinging 159.89.127.140 with 32 bytes of data:
+Reply from 159.89.127.140: bytes=32 time=4ms TTL=57
+Reply from 159.89.127.140: bytes=32 time=2ms TTL=57
+Reply from 159.89.127.140: bytes=32 time=4ms TTL=57
+Reply from 159.89.127.140: bytes=32 time=5ms TTL=57
+
+Ping statistics for 159.89.127.140:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 5ms, Average = 3ms
+
+
+OUTPUT ON DROPLET
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -c 3 -i eth0 icmp
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+19:46:13.723679 IP 198.96.85.163 > lamp-s-1vcpu-1gb-tor1-01: ICMP echo request, id 1, seq 268, length 40
+19:46:13.723754 IP lamp-s-1vcpu-1gb-tor1-01 > 198.96.85.163: ICMP echo reply, id 1, seq 268, length 40
+19:46:14.725099 IP 198.96.85.163 > lamp-s-1vcpu-1gb-tor1-01: ICMP echo request, id 1, seq 269, length 40
+3 packets captured
+5 packets received by filter
+0 packets dropped by kernel
