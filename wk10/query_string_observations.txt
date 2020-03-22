@@ -1,0 +1,19 @@
+Searching "Quarantine": noun - a strict isolation imposed to prevent the spread of disease.
+	- searching a word in the search bar brings up its definition(s) if they exist.
+
+
+Typing a nonsense word after /browse/ : 
+	- redirects to /misspelling/ with a query string for the nonsense word that was entered and 
+	displays the message "No results found for asdfasdf"
+
+
+Entering <script>alert(%27hello%27)</script> :
+	- redirects to /noresult/ with the query string <script>alert(%27hello%27)</script> and displays the
+	message "No results found for <script>alert('hello')</script>"
+	- this site does not allow javascript to be run through its form
+
+
+Entering <script>alert(%27hello%27)</script> in the term section of the URL :
+	- searches the site and gives results that could be related to the words in <script>alert(%27hello%27)</script>
+
+

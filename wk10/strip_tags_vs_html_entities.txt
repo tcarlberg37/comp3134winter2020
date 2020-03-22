@@ -1,0 +1,5 @@
+Using the php function strip_tags() on the content entered in the form removes all HTML tags that are entered in
+the input tag of the form and outputs just the string text.
+
+Using the htmlentities() php function will decode any non-alphanumeric characters into their ASCII codes, thus
+making it impossible to inject javascript/html into the form

@@ -1,0 +1,15 @@
+curl -X GET -i -d "curl" https://dictionary.com
+
+
+curl -X GET -i -d "curlxyz" https://dictionary.com
+
+
+curl -X GET -i -d "helloworld" http://159.89.127.140/sending_info_to_app_1.php
+
+
+
+curl -X GET -i -d "<script>document.write('overwrite_everything')</script>" http://159.89.127.140/sending_info_to_app_1.php
+
+
+
+ curl -X GET -i -d "<script>document.write('overwrite_everything')</script>" http://159.89.127.140/sending_info_to_app_2.php
