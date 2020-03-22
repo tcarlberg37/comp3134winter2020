@@ -1,0 +1,4 @@
+when navigating to http://159.89.127.140/directory_traversal_part1.php?q=%2e%2e%2f
+	- the browser shows the contents of the /var/www folder which contains the html directory
+	- this is because %2e%2e%2f == ../ which goes up one directory from the html directory
+	- from here we could navigate into all the web files contained on this droplet server

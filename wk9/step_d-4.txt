@@ -1,0 +1,3 @@
+when navigating to http://159.89.127.140/directory_traversal_part1.php?q=../../
+	- I see the entire /var/ directory printed out to the screen
+	- this includes the web cache, backups, and other senstive files/folders

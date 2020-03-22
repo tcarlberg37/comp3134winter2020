@@ -1,0 +1,4 @@
+To mitigate the issue of directory traversal using query strings, I used the php function basename() to check that
+the path entered in the query string does not try to use ../ to go up directories and output a message if it does.
+I also used the file_exists() function to check if the query string matches a file on the server, and if not
+output a message that the user is trying to acces a file that does not exist.

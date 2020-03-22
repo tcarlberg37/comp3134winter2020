@@ -1,0 +1,4 @@
+when navigating to http://159.89.127.140/directory_traversal_part1.php?q=hello
+	- the browser just shows a blank page, the directory traversal is no longer shown with this query string
+	- the directories are shown with other query strings and you can traverse them by putting q=../ or whatever directory you want to get to
+	- this can be used for a directory traversal attack as you can easily navigate the droplet's entire file system with query strings

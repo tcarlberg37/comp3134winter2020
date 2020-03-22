@@ -1,0 +1,2 @@
+To mitigate the issue of seeing html comments in source code I changed the HTML document into a php file and 
+changed the HTML comments (<!-- -->) into PHP comments (// ) which are not seen by the browser.

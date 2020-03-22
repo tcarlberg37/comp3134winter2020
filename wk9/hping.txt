@@ -1,0 +1,26 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# hping3 -i u1 -c 10000 138.197.149.203 --rand-source
+HPING 138.197.149.203 (eth0 138.197.149.203): NO FLAGS are set, 40 headers + 0 data bytes
+
+--- 138.197.149.203 hping statistic ---
+10000 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# hping3 -2 -i u10000 -c 9000 138.197.149.203 -a 192.0.0.0
+HPING 138.197.149.203 (eth0 138.197.149.203): udp mode set, 28 headers + 0 data bytes
+
+--- 138.197.149.203 hping statistic ---
+9000 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
+
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# hping3 -1 -i u7500 -c 11000 138.197.149.203 -d 1000
+---- lots of output ----
+--- 138.197.149.203 hping statistic ---
+11000 packets transmitted, 10987 packets received, 1% packet loss
+round-trip min/avg/max = 0.5/7.8/1008.6 ms
