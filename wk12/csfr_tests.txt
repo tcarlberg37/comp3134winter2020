@@ -1,0 +1,8 @@
+When using csfr_form.php:
+	Redirects directly to csfr_action.php with correct credentials
+	GET confirmation equals SESSION confirmation and POST confirmation does not equal SESSION confirmation
+
+When using csfr.html
+	- Redirects directly to csfr_action.php with correct credentials
+	GET confirmation and POST confirmation equals SESSION confirmation
+	

@@ -1,0 +1,4 @@
+when you read and output from a file directly with PHP, it writes whatever is in the file right into the HTML of
+the document. So since we put a javascript command to link to the directory traversal page in the text file, as
+soon as it is read our page goes to the directory traversal file. This could be used by an attacker to look into
+any file on the system.
