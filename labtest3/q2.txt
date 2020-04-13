@@ -1,0 +1,25 @@
+COMP3134 LAB TEST 3
+THOMAS CARLBERG 101155271
+Q2
+
+task number: 2
+domain: github.com (github.com/tcarlberg37/comp3134winter2020/tree/master/wk9)
+
+HIDDEN FIELDS:
+NAME: _method
+VALUE: put
+
+NAME: authenticity_token
+VALUE: nWjLjISuPyp1GVWjSMFh+AFraQxB8PeErysv9ABzLQGwvyhLP018cnErjbdkUZuzSRxvqqeydpgabV5BWoSMrw==
+
+NAME: emoji
+VALUE: "" (empty string)
+
+NAME: timestamp
+VALUE: 1585592755775
+
+NAME: timestamp_secret
+VALUE: 832e2c2caa6ce4daf0936df79df1dc584820b8c2da1d2425408e217095ea3ef4
+
+
+method: post

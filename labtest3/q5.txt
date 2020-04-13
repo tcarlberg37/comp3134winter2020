@@ -1,0 +1,15 @@
+COMP3134 LAB TEST 3
+THOMAS CARLBERG 101155271
+Q5
+
+Task Number: 5
+Domain: www.ebgames.ca
+
+
+PAGE SOURCE COMMENTS:
+
+<!--<li><a title="Zing" class="platButton" style="height:40px;" href="/Zing"><img src="//www.ebgames.ca/Views/Locale/Content/Images/thinkgeek-main-menu-icon.png?20161101a" /></a></li>-->
+
+<!-- THEME CONTROLS BEGIN -->
+{ a bunch of css }
+<!-- THEME CONTROLS END -->

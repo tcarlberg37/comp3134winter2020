@@ -1,0 +1,10 @@
+Thomas Carlberg 101155271 COMP3134  Lab Exercise 9
+Part G
+
+1) Entering "Ben" will search the database for firstname = "Ben" with active = 1
+	No results are returned because Ben has active = 0
+
+2) This query will work because entering '-- makes a SQL comment so the part of the query where we say active = 1
+	is commented out by this SQL injection
+
+3) Entering "Ben' or 1=1" will return all rows because with this SQL injection we make every result true since 1=1

@@ -1,0 +1,15 @@
+COMP3134 LAB TEST 3
+THOMAS CARLBERG 101155271
+Q4
+
+Command:
+hping3 -i u1 -c 1000 www.ebgames.ca -p 80 -s 3333 -S
+
+
+Output:
+# hping3 -i u1 -c 1000 www.ebgames.ca -p 80 -s 3333 -S
+HPING www.ebgames.ca (eth0 23.203.115.234): S set, 40 headers + 0 data bytes
+
+--- www.ebgames.ca hping statistic ---
+1000 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
